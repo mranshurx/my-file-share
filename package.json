@@ -1,0 +1,26 @@
+{
+  "name": "airbeam-p2p-webrtc",
+  "version": "1.0.0",
+  "description": "Production-ready long-distance peer-to-peer (P2P) WebRTC file transfer application across internet with QR code pairing and backpressure management.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "webrtc",
+    "peer-to-peer",
+    "p2p",
+    "file-transfer",
+    "data-channel",
+    "backpressure",
+    "websockets"
+  ],
+  "author": "Full-Stack Mobile Engineer",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "ws": "^8.18.0"
+  }
+}

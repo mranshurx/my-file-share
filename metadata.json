@@ -1,0 +1,6 @@
+{
+  "name": "AirBeam P2P",
+  "description": "Peer-to-peer WebRTC file transfer over the internet with QR pairing, 16KB chunking backpressure control, and real-time speed metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
